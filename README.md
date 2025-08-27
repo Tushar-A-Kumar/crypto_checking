@@ -14,7 +14,7 @@ A simple Python-based command-line tool to fetch real-time cryptocurrency data u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-tracker.git
+   git clone https://github.com/Tushar-A-Kumar/crypto-tracker.git
    cd crypto-tracker
 
 2. Install required dependencies (only `requests` needed):
